@@ -1,5 +1,5 @@
 var Area = require('./Area');
-// var clc = require('cli-color');
+
 
 
 var result = new Area();
